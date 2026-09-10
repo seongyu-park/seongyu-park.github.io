@@ -37,6 +37,7 @@ comments: true
         - Cisco ASA, Cisco Firepower
 
 ### 주요 어휘
+
 |영문 표현| 뜻/문맥 | 쓰임새|
 |---|---|---|
 |Forward / Forwarding|	전달하다 / 포워딩|	패킷이나 프레임을 다음 목적지 인터페이스로 보내는 행위|
@@ -102,6 +103,7 @@ comments: true
 
 
 ### 주요 어휘
+
 |영문 표현| 뜻/문맥 | 쓰임새|
 |---|---|---|
 |UTP / STP	|비차폐 / 차폐 꼬임선 케이블|	Unshielded/Shielded Twisted Pair. 물리 계층 케이블 분류|
