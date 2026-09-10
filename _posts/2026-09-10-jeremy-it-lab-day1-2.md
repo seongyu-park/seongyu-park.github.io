@@ -66,12 +66,12 @@ comments: true
 3. 구리선 이더넷 표준(IEEE 802.3 standards)
     - 모든 구리선의 트위스트 페어(twisted pair) 케이블의 최대 전송 거리는 공통적으로 100m로 제한된다.
 
-| 일반 명칭 (Common Name) | 속도 (Speed) | 비공식 표준명 (Informal Name) | IEEE 공식 표준 | 최대 거리 |
-| :--- | :--- | :--- | :--- | :--- |
-| **Ethernet** | 10 Mbps | 10BASE-T | IEEE 802.3 | 100 m |
-| **Fast Ethernet** | 100 Mbps | 100BASE-TX | IEEE 802.3u | 100 m |
-| **Gigabit Ethernet** | 1 Gbps | 1000BASE-T | IEEE 802.3ab | 100 m |
-| **10 Gigabit Ethernet** | 10 Gbps | 10GBASE-T | IEEE 802.3an | 100 m |
+    | 일반 명칭 (Common Name) | 속도 (Speed) | 비공식 표준명 (Informal Name) | IEEE 공식 표준 | 최대 거리 |
+    | :--- | :--- | :--- | :--- | :--- |
+    | **Ethernet** | 10 Mbps | 10BASE-T | IEEE 802.3 | 100 m |
+    | **Fast Ethernet** | 100 Mbps | 100BASE-TX | IEEE 802.3u | 100 m |
+    | **Gigabit Ethernet** | 1 Gbps | 1000BASE-T | IEEE 802.3ab | 100 m |
+    | **10 Gigabit Ethernet** | 10 Gbps | 10GBASE-T | IEEE 802.3an | 100 m |
 
 - T(Twisted Pair) : 꼬인쌍선 구리 케이블을 의미한다.
 - X(Block Coding/Extender) : 블록 코딩 방식을 사용하는 규격을 의미한다.
