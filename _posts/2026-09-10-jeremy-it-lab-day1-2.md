@@ -2,7 +2,7 @@
 title: "Jeremy's IT Lab Day1~2"
 date: 2026-09-10 09:00:00 +0900
 categories: [Network, CCNA]
-tags: [network, ccna]
+tags: [network, ccna, jeremy-it-lab]
 toc: true
 math: false
 comments: true
