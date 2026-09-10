@@ -38,19 +38,20 @@ comments: true
 
 ### 주요 어휘
 
-|영문 표현| 뜻/문맥 | 쓰임새|
-|---|---|---|
-|Forward / Forwarding|	전달하다 / 포워딩|	패킷이나 프레임을 다음 목적지 인터페이스로 보내는 행위|
-|Drop / Discard|	폐기하다	|방화벽이나 라우터가 유효하지 않거나 정책상 금지된 패킷을 버리는 것|
-|Permit / Deny (Allow / Block)|	허용하다 / 차단하다|	방화벽 정책(Rule)이나 ACL(접근 제어 목록)에서 트래픽을 통과시키거나 막을 때 쓰는 표준 용어|
-|Monitor & Control|	모니터링 및 통제|	방화벽의 기본 정의에 항상 세트로 등장하는 표현|
-|Request / Provide|	요청하다 / 제공하다|	클라이언트(Request)와 서버(Provide)의 동작을 구분 짓는 기본 동사|
-|Interface / Port|	인터페이스 / 포트|	장비가 케이블을 통해 네트워크와 물리적·논리적으로 연결되는 접점|
-|Traffic|	트래픽|	네트워크 상을 이동하는 데이터의 흐름|
-|Appliance|	전용 기기/장비|	특정 기능(보안, 라우팅 등)만을 위해 독립적으로 제작된 하드웨어 장비|
+| 영문 표현 | 뜻/문맥 | 쓰임새 |
+| :--- | :--- | :--- |
+| Forward / Forwarding | 전달하다 / 포워딩 | 패킷이나 프레임을 다음 목적지 인터페이스로 보내는 행위 |
+| Drop / Discard | 폐기하다 | 방화벽이나 라우터가 유효하지 않거나 정책상 금지된 패킷을 버리는 것 |
+| Permit / Deny (Allow / Block) | 허용하다 / 차단하다 | 방화벽 정책(Rule)이나 ACL(접근 제어 목록)에서 트래픽을 통과시키거나 막을 때 쓰는 표준 용어 |
+| Monitor & Control | 모니터링 및 통제 | 방화벽의 기본 정의에 항상 세트로 등장하는 표현 |
+| Request / Provide | 요청하다 / 제공하다 | 클라이언트(Request)와 서버(Provide)의 동작을 구분 짓는 기본 동사 |
+| Interface / Port | 인터페이스 / 포트 | 장비가 케이블을 통해 네트워크와 물리적·논리적으로 연결되는 접점 |
+| Traffic | 트래픽 | 네트워크 상을 이동하는 데이터의 흐름 |
+| Appliance | 전용 기기/장비 | 특정 기능(보안, 라우팅 등)만을 위해 독립적으로 제작된 하드웨어 장비 |
 
 ---
-## day2 : Complete Courese
+
+## day2 : Complete Course
 
 1. 1.스위치 포트와 RJ-45
     - 인터페이스/포트 : 스위치는 PC, 서버 등의 엔드 호스트를 대량으로 연결하기 위해 많은 수의 포트(24~48개)를 가지고 있다.
@@ -104,14 +105,14 @@ comments: true
 
 ### 주요 어휘
 
-|영문 표현| 뜻/문맥 | 쓰임새|
-|---|---|---|
-|UTP / STP	|비차폐 / 차폐 꼬임선 케이블|	Unshielded/Shielded Twisted Pair. 물리 계층 케이블 분류|
-|Crosstalk|	신호 누화 / 혼선|	인접 전선 쌍 간의 전자기적 간섭 현상|
-|Straight-Through|	다이렉트(스트레이트) 케이블|	서로 다른 장비군(Switch-Host) 연결 시의 기본 케이블|
-|Crossover|	크로스 케이블|	동일 장비군(Switch-Switch, Router-Router, Host-Router) 연결|
-|Auto MDI-X|	자동 MDI/MDI-X 전환 기능|	케이블 핀아웃을 자동 판별하므로 케이블 종류 오류를 방지함|
-|Single-Mode Fiber (SMF)|	싱글모드 광섬유|	장거리(Long-distance, several km) 전송 지문에 단골 출제|
-|Multimode Fiber (MMF)|	멀티모드 광섬유	|건물 내부 및 단거리 백본(Cost-effective, < 500m) 지문에 출제|
-|SFP (Transceiver)|	소형 플러그형 트랜시버	|스위치의 광 포트 모듈 연결 장치|
-|Bandwidth / Throughput|	대역폭 / 처리량	|링크가 지원할 수 있는 이론적 최대 속도 / 실제 전송량|
+| 영문 표현 | 뜻/문맥 | 쓰임새 |
+| :--- | :--- | :--- |
+| UTP / STP | 비차폐 / 차폐 꼬임선 케이블 | Unshielded/Shielded Twisted Pair. 물리 계층 케이블 분류 |
+| Crosstalk | 신호 누화 / 혼선 | 인접 전선 쌍 간의 전자기적 간섭 현상 |
+| Straight-Through | 다이렉트(스트레이트) 케이블 | 서로 다른 장비군(Switch-Host) 연결 시의 기본 케이블 |
+| Crossover | 크로스 케이블 | 동일 장비군(Switch-Switch, Router-Router, Host-Router) 연결 |
+| Auto MDI-X | 자동 MDI/MDI-X 전환 기능 | 케이블 핀아웃을 자동 판별하므로 케이블 종류 오류를 방지함 |
+| Single-Mode Fiber (SMF) | 싱글모드 광섬유 | 장거리(Long-distance, several km) 전송 지문에 단골 출제 |
+| Multimode Fiber (MMF) | 멀티모드 광섬유 | 건물 내부 및 단거리 백본(Cost-effective, < 500m) 지문에 출제 |
+| SFP (Transceiver) | 소형 플러그형 트랜시버 | 스위치의 광 포트 모듈 연결 장치 |
+| Bandwidth / Throughput | 대역폭 / 처리량 | 링크가 지원할 수 있는 이론적 최대 속도 / 실제 전송량 |
