@@ -84,7 +84,7 @@ comments: true
 
 
 
-## day 4 : intro to the CLI
+## day 4 : Intro to the CLI
 
 1. Cisco IOS 및 CLI vs GUI
     - Cisco IOS (Internetwork Operating System) : 시스코 라우터와 스위치 등의 장비에서 구동되는 전용 네트워크 운영체제
