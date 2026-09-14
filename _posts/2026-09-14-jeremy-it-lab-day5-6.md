@@ -1,3 +1,13 @@
+---
+title: "이더넷 LAN 스위칭"
+date: 2026-09-14 09:00:00 +0900
+categories: [Network, CCNA]
+tags: [network, ccna, jeremy-it-lab]
+toc: true
+math: false
+comments: true
+---
+
 ## day 5 : 이더넷 LAN 스위칭 - 1
 
 1. 계층 복습 및 LAN의 경계
