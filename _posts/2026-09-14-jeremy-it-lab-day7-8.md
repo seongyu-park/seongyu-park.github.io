@@ -4,7 +4,7 @@ date: 2026-09-15 09:00:00 +0900
 categories: [Network, CCNA]
 tags: [network, ccna, jeremy-it-lab]
 toc: true
-math: false
+math: true
 comments: true
 ---
 
