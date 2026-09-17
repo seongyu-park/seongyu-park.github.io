@@ -1,5 +1,5 @@
 ---
-title: "패킷의 생명(day13)"
+title: "패킷의 생명(day12)"
 date: 2026-09-17 09:00:00 +0900
 categories: [Network, CCNA]
 tags: [network, ccna, jeremy-it-lab]
